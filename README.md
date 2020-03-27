@@ -3,5 +3,5 @@
 <br>Content :
 <br>Bacaan Al-Quran
 <br>Hafazan Al-Quran
-<br>Bahasa Melayu Assignment
-<br>English Assignment
+<br>Bahasa Melayu Excercise
+<br>English Excercise
