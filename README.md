@@ -3,5 +3,5 @@
 <H4>Content :</H4>
 Bacaan Al-Quran
 <br>Hafazan Al-Quran
-<br>Bahasa Melayu Excercise
-<br>English Excercise
+<br>Bahasa Melayu Exercise
+<br>English Exercise
